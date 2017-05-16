@@ -1644,6 +1644,9 @@ extranet
 extras
 ezshopper
 ezsqliteadmin
+ezinfo/about
+ezinfo/is_alive
+ezinfo/copyright
 f
 fa
 fabric
@@ -3830,6 +3833,7 @@ start
 starter
 startpage
 stat
+stat.html
 state
 statement
 statements
