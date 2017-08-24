@@ -6,6 +6,7 @@
 .cvsignore
 .forward
 .git/HEAD
+.git
 .history
 .hta
 .htaccess
