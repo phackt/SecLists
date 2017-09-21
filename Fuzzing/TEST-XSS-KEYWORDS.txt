@@ -41,6 +41,7 @@ oNWheel
 oNSuspend
 oNLoADMEtADaTA
 oNLOaDStart
+formaction
 <obJect daTa=y>
 <isindex mouseover=y>
 <eMbEd src=y>
