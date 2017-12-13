@@ -1160,7 +1160,9 @@
 /elim/blist.xml
 /emul.js
 /engine/classes/swfupload/swfupload.swf
+/engine/classes/swfupload/swfupload_f8.swf
 /engine/classes/swfupload/swfupload_f9.swf
+/engine/classes/swfupload/swfupload_f10.swf
 /engine/libs/spaw/dialogs/dialog.php
 /environment.rb
 /err
@@ -1301,7 +1303,9 @@
 /htgroup
 /html/config.rb
 /html/js/misc/swfupload/swfupload.swf
+/html/js/misc/swfupload/swfupload_f8.swf
 /html/js/misc/swfupload/swfupload_f9.swf
+/html/js/misc/swfupload/swfupload_f10.swf
 /htpasswd
 /htpasswd.bak
 /htpasswd/htpasswd.bak
@@ -1347,7 +1351,9 @@
 /includes/fckeditor/editor/filemanager/upload/php/upload.php
 /includes/js/tiny_mce/
 /includes/swfupload/swfupload.swf
+/includes/swfupload/swfupload_f8.swf
 /includes/swfupload/swfupload_f9.swf
+/includes/swfupload/swfupload_f10.swf
 /includes/tiny_mce/
 /includes/tinymce/
 /index-bak
@@ -1404,7 +1410,9 @@
 /js/elfinder/elfinder.php
 /js/FCKeditor
 /js/swfupload/swfupload.swf
+/js/swfupload/swfupload_f8.swf
 /js/swfupload/swfupload_f9.swf
+/js/swfupload/swfupload_f10.swf
 /js/tiny_mce/
 /js/tinymce/
 /jscripts/tiny_mce/
@@ -1856,7 +1864,9 @@
 /plugins/editors/fckeditor
 /plugins/fckeditor
 /plugins/sfSWFUploadPlugin/web/sfSWFUploadPlugin/swf/swfupload.swf
+/plugins/sfSWFUploadPlugin/web/sfSWFUploadPlugin/swf/swfupload_f8.swf
 /plugins/sfSWFUploadPlugin/web/sfSWFUploadPlugin/swf/swfupload_f9.swf
+/plugins/sfSWFUploadPlugin/web/sfSWFUploadPlugin/swf/swfupload_f10.swf
 /plugins/spaw2/dialogs/dialog.php
 /plugins/tiny_mce/
 /plugins/tinymce/
@@ -2052,7 +2062,9 @@
 /sugarcrm.log
 /surgemail/
 /surgemail/mtemp/surgeweb/tpl/shared/modules/swfupload.swf
+/surgemail/mtemp/surgeweb/tpl/shared/modules/swfupload_f8.swf
 /surgemail/mtemp/surgeweb/tpl/shared/modules/swfupload_f9.swf
+/surgemail/mtemp/surgeweb/tpl/shared/modules/swfupload_f10.swf
 /svn.revision
 /SVN/
 /svn/
