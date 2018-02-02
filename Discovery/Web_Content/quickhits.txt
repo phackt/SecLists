@@ -1,3 +1,4 @@
+healthcheck
 /!.gitignore
 /!.htaccess
 /!.htpasswd
