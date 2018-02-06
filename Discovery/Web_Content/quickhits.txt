@@ -1,3 +1,11 @@
+xml
+xmlfiles
+xmlimporter
+xmlrpc
+xml-rpc
+xmlrpc.php
+xmlrpc_server
+xmlrpc_server.php
 healthcheck
 /!.gitignore
 /!.htaccess
