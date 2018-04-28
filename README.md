@@ -41,7 +41,7 @@ Significant effort is made to give attribution for these lists whenever possible
 - Honored to have @Brutelogic's brilliant XSS Cheatsheet added to the Fuzzing section!
 - Added 0xsobky's Ultimate XSS Polyglot!
 
-This project stays great because of care and love from the community, and we will never forget that.
+This project stays great because of care and love from the community, and we will never forget that. If you know of a contribution that is not listed above, please let us know…
 
 ## Licensing
 
