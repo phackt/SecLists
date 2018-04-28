@@ -1,0 +1,1 @@
+dirb http://spoilers.netflix.com/.tools/ raft-large-directories.txt -l -N 500 -r | tee -a /tmp/spoilers.netflix.dirb
